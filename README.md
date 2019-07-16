@@ -1,4 +1,4 @@
 # procreate-palattes
 .swatches files for procreate
 
-![](preview.jpg)
+![](Blood&SkinPreview.png) ![](CrowFeatherPreview.png) ![](DarkWoodsPreview.png) ![](MattedFurPreview.png) ![](MoonVerbenaPreview.png) ![](SpaceMadnessPreview.png) ![](SpookPreview.png) ![](WarmYarrowPreview.png)
